@@ -1,10 +1,7 @@
-# Netlify Content Ops Starter 
+# Debug my Dinner
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
-
-Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
-
-**⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
+This is the repository for my cooking blog. It is build using [content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
+and hosted on Netlify.
 
 ## Deploying to Netlify
 
@@ -41,14 +38,3 @@ To build a static site for production, run the following command
 ```shell
 npm run build
 ```
-
-## Next Steps
-
-Here are a few suggestions on what to do next if you're new to Netlify visual editor:
-
-- Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
-
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).

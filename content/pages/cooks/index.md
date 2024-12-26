@@ -5,12 +5,11 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Debug My Dinner
+      text: The Dinner Log
       color: text-dark
       type: TitleBlock
     subtitle: What's up for dinner?
-    posts:
-      - content/pages/cooks/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
