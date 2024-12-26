@@ -272,15 +272,15 @@
                         "subtitle": null,
                         "posts": [
                             {
-                                "$$ref": "content/pages/blog/case-study-1.md",
+                                "$$ref": "content/pages/cooks/case-study-1.md",
                                 "$$type": "PostLayout"
                             },
                             {
-                                "$$ref": "content/pages/blog/case-study-2.md",
+                                "$$ref": "content/pages/cooks/case-study-2.md",
                                 "$$type": "PostLayout"
                             },
                             {
-                                "$$ref": "content/pages/blog/case-study-3.md",
+                                "$$ref": "content/pages/cooks/case-study-3.md",
                                 "$$type": "PostLayout"
                             }
                         ],

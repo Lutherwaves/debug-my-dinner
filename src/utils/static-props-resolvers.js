@@ -10,14 +10,14 @@ import {
 } from './data-utils';
 
 export function resolveStaticProps(urlPath, data) {
-    // get root path of paged path: /blog/page/2 => /blog
+    // get root path of paged path: /cooks/page/2 => /cooks
     const rootUrlPath = getRootPagePath(urlPath);
     const { __metadata, ...rest } = data.pages.find((page) => page.__metadata.urlPath === rootUrlPath);
     const props = {
         page: {
             __metadata: {
                 ...__metadata,
-                // override urlPath in metadata with paged path: /blog => /blog/page/2
+                // override urlPath in metadata with paged path: /cooks => /cooks/page/2
                 urlPath
             },
             ...rest
