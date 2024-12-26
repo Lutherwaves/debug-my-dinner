@@ -16,78 +16,13 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: How can we help?
-      color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
+bottomSections: []
 slug: crispy-porchetta
 isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Porchetta Wrap
+  metaTitle: Crispy porchetta
   metaDescription: A crispy roll of goodness.
   addTitleSuffix: false
   metaTags: []
@@ -96,13 +31,11 @@ styles:
   self:
     flexDirection: row
 ---
-<div style="text-align: left"># Overview</div>
+<div style="text-align: left">## Overview</div>
 
-This is a fairly plain recipe for cooking a fairly spectacular piece of meat. It is best served at dinner gatherings, and if you go the extra mile of doing it over char-coal, you will get a crispy, smoky, juicy centerpiece for your friends or family.
+A spectacular way of cooking a plain piece of meat. A savory, fatty, and moist boneless pork roast of Italian cooking tradition This is a simpler and smaller way of bringing the Italian tradition to the home table. Serve it at dinner gatherings, and if you go the extra mile of doing it over char-coal, you will get a crispy, smoky, juicy centerpiece for your friends or family.
 
-
-
-# Recipe
+## Recipe
 
 *   Prep time \~ 2 days
 
@@ -110,9 +43,9 @@ This is a fairly plain recipe for cooking a fairly spectacular piece of meat. It
 
 *   Complexity: **Medium**
 
-## Ingredients
+### Ingredients
 
-### Main dish
+#### Main dish
 
 Keeping it simple and not too spicy, feel free to tweak the dry spices to fit your taste.
 
@@ -130,7 +63,7 @@ Keeping it simple and not too spicy, feel free to tweak the dry spices to fit yo
 
 *   2 tbsp. Mustard powder
 
-### Sauce
+#### Sauce
 
 Simple basic veloute sauce, nothing fancy.
 
@@ -142,7 +75,7 @@ Simple basic veloute sauce, nothing fancy.
 
 *   300ml beef stock (concentrated)
 
-### Side dish
+#### Side dish
 
 Simple potato mash
 
@@ -152,7 +85,7 @@ Simple potato mash
 
 *   50 ml Milk
 
-## Prep the meat
+### Prep the meat
 
 We need to prep the meat, so that each piece fits into the other.
 
@@ -165,7 +98,7 @@ We need to prep the meat, so that each piece fits into the other.
 7.  Cut and trim the piece, so that it is only slightly smaller than your belly pork piece, but not by more than 2cm.
 8.  Rub salt on both sides of the meat, then put on a drying rack and leave in the fridge to dry with your pork belly
 
-## Roll it up
+### Roll it up
 
 We are now ready to spread the marinade on the meat and roll it up.
 
@@ -183,9 +116,9 @@ We are now ready to spread the marinade on the meat and roll it up.
 
 7.  Tie the piece using [butcher's knot](https://youtu.be/fPu1EhGbFzM?si=WUTji_pXxy6KSliv). Wrap both ends first, then the middle. Do not over tighten, but make sure the roll is tight and stays together well as a whole. I recommend laying out the knots in such a way, so that when you cut afterwards, each can be a piece to serve.
 
-## Fire!
+### Fire!
 
-### Porchetta Roast
+#### Porchetta Roast
 
 It's time for the magic. I recommend doing this over charcoal to add some smoke flavor, but you can also do it in the oven.
 
@@ -197,7 +130,7 @@ It's time for the magic. I recommend doing this over charcoal to add some smoke 
 
 4.  Once it is ready, leave it outside on a drying rack to cool down and rest for at least 20 minutes. Do not cover so that the skin remains crispy.
 
-### Side dish
+#### Side dish
 
 I like to lay my porchetta slices on fluffy potato mash, but the dish goes well with other side dishes.
 
@@ -219,7 +152,7 @@ I like to lay my porchetta slices on fluffy potato mash, but the dish goes well 
 
 9.  Do not forget to add salt to taste.
 
-### Sauce
+#### Sauce
 
 1.  Melt your butter in a small casserole on medium heat. Do not let it burn, but just brown a tiny bit.
 
@@ -237,7 +170,7 @@ I like to lay my porchetta slices on fluffy potato mash, but the dish goes well 
 
 8.  If you have any lumps, just sift your sauce through a sieve to dissolve them.
 
-## Serve
+### Serve
 
 1.  Remove all the knots from the porchetta wrap.
 

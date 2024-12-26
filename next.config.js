@@ -6,7 +6,16 @@ const nextConfig = {
         stackbitPreview: process.env.STACKBIT_PREVIEW
     },
     trailingSlash: true,
-    reactStrictMode: true
+    reactStrictMode: true,
+    async redirects() {
+        return [
+            {
+                source: '/',
+                destination: '/cooks',
+                permanent: true,
+            },
+        ]
+    },
 };
 
 module.exports = nextConfig;
