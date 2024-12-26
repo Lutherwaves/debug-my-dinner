@@ -1,6 +1,6 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Martin Yankov",
+    "role": "Author",
     "image": {
         "url": "/images/avatar1.svg",
         "altText": "Rhonda Piper",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Debugging by day, cook every evening.\n"
 }

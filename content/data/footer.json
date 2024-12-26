@@ -1,13 +1,13 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/debug-logo-no-text-white.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
     "text": "What's up for dinner?\n",
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "",
+    "copyrightText": "Debug My Dinner @ 2025\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

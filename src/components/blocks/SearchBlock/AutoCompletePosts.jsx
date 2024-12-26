@@ -11,7 +11,7 @@ export default function AutoCompletePosts() {
     return (
         <BaseAutoComplete
             openOnFocus={true}
-            placeholder="Search in posts..."
+            placeholder="Search for meals..."
             getSources={({ query }) => [
                 {
                     sourceId: 'posts',
