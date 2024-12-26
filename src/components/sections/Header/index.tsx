@@ -316,8 +316,8 @@ function LinkWithSubnav(props) {
             onMouseLeave={
                 !process.env.stackbitPreview && !inMobileMenu
                     ? () => {
-                          setIsSubNavOpen(false);
-                      }
+                        setIsSubNavOpen(false);
+                    }
                     : undefined
             }
             data-sb-field-path={fieldPath}
@@ -327,8 +327,8 @@ function LinkWithSubnav(props) {
                 onMouseOver={
                     !process.env.stackbitPreview && !inMobileMenu
                         ? () => {
-                              setIsSubNavOpen(true);
-                          }
+                            setIsSubNavOpen(true);
+                        }
                         : undefined
                 }
                 onClick={() => setIsSubNavOpen((prev) => !prev)}

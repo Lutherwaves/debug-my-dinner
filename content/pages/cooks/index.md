@@ -1,14 +1,14 @@
 ---
 title: Cooks
-slug: /
+slug: /cooks
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: The Dinner Log
+      text: What's up for dinner?
       color: text-dark
       type: TitleBlock
-    subtitle: What's up for dinner?
+    subtitle: Explore the dinner log
     posts: []
     showThumbnail: true
     showExcerpt: true

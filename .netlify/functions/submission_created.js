@@ -1,9 +1,9 @@
-'use strict';
+use strict';
 
 const axios = require('axios');
 
 // Handle the lambda invocation
-exports.handler = async function (event, context, callback) {
+exports.handler = async function(event, context, callback) {
     try {
         const url = process.env.STACKBIT_CONTACT_FORM_SUBMISSION_URL;
 
