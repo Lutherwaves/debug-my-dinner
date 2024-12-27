@@ -17,6 +17,7 @@ export default function DefaultBaseLayout(props) {
             <div className="sb-base sb-default-base-layout">
                 <Head>
                     <title>{title}</title>
+                    <meta name="algolia-site-verification" content="3F371A9E966F12DD" />
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
                         if (metaTag.format === 'property') {
