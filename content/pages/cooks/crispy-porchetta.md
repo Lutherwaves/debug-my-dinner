@@ -3,10 +3,12 @@ type: PostLayout
 title: Crispy Porchetta
 date: '2024-12-23'
 author: content/data/person1.json
-excerpt: A crispy and juicy pork wrap that your taste buds will thank you for.
+excerpt: >-
+  Crispy, savory pork wrap that your taste buds will thank you for. A
+  spectacular way to cook a fairly plain piece of pork.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/20241225_193213.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -31,90 +33,131 @@ styles:
   self:
     flexDirection: row
 ---
-<div style="text-align: left">## Overview</div>
+![](http://localhost:8090/images/20241225_192640.jpg)
 
-A spectacular way of cooking a plain piece of meat. A savory, fatty, and moist boneless pork roast of Italian cooking tradition This is a simpler and smaller way of bringing the Italian tradition to the home table. Serve it at dinner gatherings, and if you go the extra mile of doing it over char-coal, you will get a crispy, smoky, juicy centerpiece for your friends or family.
+### Overview
 
-## Recipe
+A spectacular way to elevate a plain piece of meat. This savory, fatty, and moist boneless pork roast is a simplified version of an Italian cooking tradition. It's a perfect way to bring Italian flavors to your home table. Serve it at dinner gatherings, and if you go the extra mile by cooking it over charcoal, you'll create a crispy, smoky, juicy centerpiece for your friends or family.
 
-*   Prep time \~ 2 days
+### Recipe
 
-*   Cooking time \~ 2.5h
+**Prep time:** \~2 days
 
-*   Complexity: **Medium**
+**Cooking time:** \~2.5 hours
 
-### Ingredients
+**Complexity:** Medium
 
-#### Main dish
+#### Ingredients
 
-Keeping it simple and not too spicy, feel free to tweak the dry spices to fit your taste.
+##### Main Dish
 
-*   \~ 1.5 - 2kg Pork belly fat with skin (or pork back)
+Keep it simple and not too spicy, but feel free to adjust the dry spices to suit your taste
 
-*   \~ 1.5 - 2kg Pork Loin
+*   1.5 - 2kg Pork belly with skin (or pork back)
 
-*   2  - White onions
+*   1.5 - 2kg Pork loin
 
-*   200g - Creamy Yogurt (10% fat at least)
+*   2 White onions
 
-*   1 tsp. Salt
+*   200g Creamy yogurt (at least 10% fat)
 
-*   1 tsp. Ground pepper
+*   1 tsp Salt
 
-*   2 tbsp. Mustard powder
+*   1 tsp Ground pepper
 
-#### Sauce
+*   2 tbsp Mustard powder
 
-Simple basic veloute sauce, nothing fancy.
+##### Sauce
 
-*   50 g butter
+A simple, basic velouté sauce:
 
-*   50 g flour
+*   50g Butter
 
-*   1 tbsp. dijon mustard
+*   50g Flour
 
-*   300ml beef stock (concentrated)
+*   1 tbsp Dijon mustard
 
-#### Side dish
+*   300ml Concentrated beef stock
 
-Simple potato mash
+##### Side Dish
+
+Simple potato mash:
 
 *   1kg Potatoes
 
 *   50g Butter
 
-*   50 ml Milk
+*   50ml Milk
 
-### Prep the meat
+#### Prep the meat
 
 We need to prep the meat, so that each piece fits into the other.
 
-1.  Lay the pork belly flat on a countertop, skin side up. Using a fork, make as many punctures in the skin as your patience allows. I like to use a [needle meat tenderizer](https://www.amazon.com/Meat-Tenderizer-Tool/s?k=Meat+Tenderizer+Tool). The more punctures, the crispier the skin once it hits the fire.
-2.  Turn the pork around skin side down. Depending on the piece of meat you have, you might need to trim some fat, but the important thing is that it is even. Using a very sharp long knife, make an incision on the side of the piece, between the skin and the fat. We're going to separate the fat from the skin, but will leave the fat attached to the piece of skin. Be careful during this step not to puncture the skin. You should be left with a piece of fat/meat on the top of the skin, that you can roll separately from the skin, but is still attached to the piece.
-3.  Turn the piece around again and rub coarse sea salt to the skin, massaging the salt so it penetrates in the holes. Lay flat skin side up on a drying rack and put it in the fridge at least overnight. This will help the skin dry out and become extra crispy later.
-4.  Grab your pork loin and remove all the silver skin using a sharp knife.
-5.  We now need to butterfly the pork loin. Make an incision along side of the piece, leaving around 1 cm of meat on the outer side. Do not slice through the meat, but stop at around 2cm before you slice through. Roll it the meat so that your slice is on the top, then repeat slicing 1cm away from the bottom until you have a flat piece of meat.
-6.  Cover the meat with plastic wrap, then using a meat hammer, make sure it is evenly thick across the whole piece.
-7.  Cut and trim the piece, so that it is only slightly smaller than your belly pork piece, but not by more than 2cm.
-8.  Rub salt on both sides of the meat, then put on a drying rack and leave in the fridge to dry with your pork belly
+#### Preparing the Pork Belly
+
+![](/images/IMG_0009.JPG)
+
+1.  Place the pork belly flat on a countertop, skin side up.
+
+2.  Using a fork or needle meat tenderizer, puncture the skin thoroughly. The more punctures, the crispier the skin will be when cooked.
+
+3.  Flip the pork belly skin side down.
+
+4.  Trim excess fat if necessary, ensuring an even thickness.
+
+5.  With a sharp, long knife, carefully make an incision on the side of the piece, between the skin and fat. Separate the fat from the skin, leaving it attached to the skin at one end. Take care not to puncture the skin during this process.
+
+6.  Turn the piece skin side up again and rub coarse sea salt into the skin, massaging it into the punctures.
+
+7.  Place the pork belly skin side up on a drying rack and refrigerate overnight or longer up to 2 days. This helps dry out the skin for
+    extra crispiness.
+
+#### Preparing the Pork Loin
+
+![](/images/IMG_0008.JPG)
+
+1.  Remove all silver skin from the pork loin using a sharp knife.
+
+2.  Butterfly the pork loin:
+
+    *   Make an incision along the side, leaving about 1 cm of meat on the outer edge.
+
+    *   Stop cutting about 2 cm before slicing through completely.
+
+    *   Roll the meat so the slice is on top, then repeat the process, slicing 1 cm from the bottom until you have a flat piece of meat.
+
+3.  Cover the meat with plastic wrap and use a meat mallet to ensure even thickness across the entire piece.
+
+4.  Trim the pork loin to be slightly smaller than the pork belly piece, no more than 2 cm difference.
+
+5.  Rub salt on both sides of the meat.
+
+6.  Place the pork loin on a drying rack and refrigerate alongside the pork belly.
 
 ### Roll it up
 
 We are now ready to spread the marinade on the meat and roll it up.
 
-1.  In a bowl, grate the onions to extract the most flavor. Remove any remainders or big pieces, as we want the marinade to be consistent.
+![](/images/IMG_0065.JPG)
 
-2.  Add the yogurt and dry spices, then mix it up well. It should be slightly yellow from the mustard powder, unless you modified the dry spices to your taste.
+#### Preparing the Marinade and Assembling the Porchetta
 
-3.  Take your butterflied loin out and spread the marinade in a thin layer over the meat. You want to have the meat covered up, but not soaking in marinade.
+1.  In a bowl, grate the onions finely to extract maximum flavor. Remove any large pieces to ensure a consistent marinade texture.
 
-4.  On the fat side of the pork belly, spread some of the marinade on the sides that will not touch the loin.
+2.  Add yogurt and dry spices to the grated onions, mixing well. The marinade should have a slight yellow tint from the mustard powder, unless you've modified the spice blend to your taste.
 
-5.  Put the loin piece on top of the unwrapped pork belly fat. Roll up the pork fat onto the sirloin, so that the fat mixes with the loin when it rolls.
+3.  Take your butterflied pork loin and spread a thin layer of marinade over the meat, ensuring coverage without oversaturating.
 
-6.  Once you roll it up to the edge of the pork belly, roll the pork belly in the opposite direction to form the final Porchetta wrap.
+4.  On the fat side of the pork belly, apply some marinade to the areas that won't be in direct contact with the loin.
 
-7.  Tie the piece using [butcher's knot](https://youtu.be/fPu1EhGbFzM?si=WUTji_pXxy6KSliv). Wrap both ends first, then the middle. Do not over tighten, but make sure the roll is tight and stays together well as a whole. I recommend laying out the knots in such a way, so that when you cut afterwards, each can be a piece to serve.
+5.  Place the marinated loin on top of the unwrapped pork belly fat. Roll the pork fat around the loin, allowing the fat to mingle with the loin as you roll.
+
+6.  Once you reach the edge of the pork belly, reverse the rolling direction to complete the final Porchetta wrap.
+
+7.  Secure the roll using butcher's twine and a butcher's knot technique:
+    *   Start by tying both ends, then secure the middle.
+    *   Ensure the roll is tight and cohesive without over-tightening.
+    *   Space the knots evenly, considering future serving portions when cutting
 
 ### Fire!
 
@@ -171,6 +214,8 @@ I like to lay my porchetta slices on fluffy potato mash, but the dish goes well 
 8.  If you have any lumps, just sift your sauce through a sieve to dissolve them.
 
 ### Serve
+
+![](/images/20241225_193212.jpg)
 
 1.  Remove all the knots from the porchetta wrap.
 
