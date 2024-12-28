@@ -8,7 +8,7 @@ excerpt: >-
   spectacular way to cook a fairly plain piece of pork.
 featuredImage:
   type: ImageBlock
-  url: /images/20241225_193213.jpg
+  url: /images/20241225_192640-min.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -33,7 +33,7 @@ styles:
   self:
     flexDirection: row
 ---
-![](http://localhost:8090/images/20241225_192640.jpg)
+![](/images/20241225_192640-min.jpg)
 
 ### Overview
 
