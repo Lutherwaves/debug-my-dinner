@@ -30,10 +30,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Debug My Dinner
-  metaDescription: What's up for dinner?
-  socialImage: >-
-    /images/AI_Generated_Logo_2024-12-25_a65107df-c99b-477a-9c8f-98fd59c7c3b4.jpg
+  metaTitle: What's up for dinner?
+  metaDescription: The cooking blog for a plain debugger. Debugging dinners since 2005.
+  socialImage: /images/debug-logo-no-text-.svg
   type: Seo
   addTitleSuffix: true
 type: PostFeedLayout
