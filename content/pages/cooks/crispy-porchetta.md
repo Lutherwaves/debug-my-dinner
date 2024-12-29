@@ -5,10 +5,10 @@ date: '2024-12-23'
 author: content/data/person1.json
 excerpt: >-
   Crispy, savory pork wrap that your taste buds will thank you for. A
-  spectacular way to cook a fairly plain piece of pork.
+  spectacular way to cook a fairly plain piece of meat for any feast.
 featuredImage:
   type: ImageBlock
-  url: /images/20241225_193213.jpg
+  url: /images/20241225_192640-min.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -33,7 +33,7 @@ styles:
   self:
     flexDirection: row
 ---
-![](http://localhost:8090/images/20241225_192640.jpg)
+![](/images/20241225_192640-min.jpg)
 
 ### Overview
 
