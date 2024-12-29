@@ -30,60 +30,6 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: How can we help?
-      color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
 slug: homemade-doner-kebap
 isFeatured: false
 isDraft: false
@@ -158,7 +104,7 @@ Keeping it simple and not too spicy, feel free to tweak the dry spices to fit yo
 
 3.  Slice your tomato into thin circles.
 
-4.  Prepare your lavash or tortilla bread for roasting.
+4.  Prepare your flat bread for roasting.
 
 ## Fire!
 
@@ -174,9 +120,9 @@ Keeping it simple and not too spicy, feel free to tweak the dry spices to fit yo
 
 ## Serve
 
-1.  In a heated pan, toast your tortilla/lavash bread for a 30 seconds or until warm
+1.  In a heated pan, toast your flat bread for a 30 seconds or until warm
 
-2.  In the middle, place a tbsp of greek yoghurt.
+2.  In the middle, place a tbsp of greek yogurt.
 
 3.  Put a few slices of marinated onions, cucumbers and tomato.
 
@@ -187,8 +133,4 @@ Keeping it simple and not too spicy, feel free to tweak the dry spices to fit yo
 6.  Put into a baking paper or parchment paper, and roll it up fully, closing the sides tightly.
 
 7.  Slice in half and serve, enjoy while it is still warm!
-
-##
-
-<div style="text-align: left"></div>
 
