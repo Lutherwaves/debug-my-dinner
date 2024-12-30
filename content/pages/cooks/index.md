@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: What's up for dinner?
+      text: What's for dinner?
       color: text-dark
       type: TitleBlock
     subtitle: Explore the dinner log
@@ -30,8 +30,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: What's up for dinner?
-  metaDescription: The cooking blog for a plain debugger. Debugging dinners since 2005.
+  metaTitle: What's for dinner?
+  metaDescription: >-
+    Cooking blog of a hobby cook. Explore the dinner log and find out what's for
+    dinner.
   socialImage: /images/debug-logo-no-text-.svg
   type: Seo
   addTitleSuffix: true
