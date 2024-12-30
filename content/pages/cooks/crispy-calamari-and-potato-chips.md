@@ -35,8 +35,8 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: homemade-doner
-  metaDescription: Homemade authentic doner recipe
+  metaTitle: Crispy Calamari
+  metaDescription: Simple crispy calamari with chips
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
