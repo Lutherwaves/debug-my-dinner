@@ -35,7 +35,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: homemade-doner
+  metaTitle: Homemade Doner
   metaDescription: Homemade authentic doner recipe
   addTitleSuffix: false
   metaTags: []

@@ -1,0 +1,82 @@
+{
+    "model": "PostLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Latest Recipe",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Recipe"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Crispy Calamari",
+                "date": "2024-12-28",
+                "author": {
+                    "$$ref": "content/data/person1.json",
+                    "$$type": "Person"
+                },
+                "excerpt": "This crispy calamari and potato chips is definitely a soul food you can enjoy throughout the year. Check it out now.",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/IMG_0280-min.JPG",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Thumbnail",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-0",
+                                "pl-0",
+                                "pb-0",
+                                "pr-0"
+                            ]
+                        }
+                    }
+                },
+                "bottomSections": [
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "slug": "crispy-calamari-and-potato-chips",
+                "isFeatured": false,
+                "isDraft": false,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "Crispy Calamari",
+                    "metaDescription": "Simple crispy calamari with chips",
+                    "addTitleSuffix": false,
+                    "socialImage": null,
+                    "metaTags": []
+                },
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "flexDirection": "row"
+                    }
+                },
+                "markdown_content": "![](/images/IMG_0280-min.JPG)\n\n## The classic summer getaway\n\nCrispy fried calamari and chips are a savory and crispy way for the family to enjoy something delicious and different, every now and then. This recipe is very easy to do, even with frozen calamari. For best crispiness, I recommend picking the purple/red-ish potatoes and getting a nice truffle slicer.\n\n## Recipe\n\n*   Prep time - 4 hours\n\n*   Cooking time - 40 minutes\n\n*   Complexity: **Low**\n\n### Ingredients\n\n*   \\~ 700 g calamari tubes\n\n*   \\~ 500 g purple/red potatoes for frying\n\n*   200 g corn flour\n\n*   20 g corn starch\n\n*   Salt & Black Pepper to taste\n\n*   3 tbsp Baking powder\n\n### Preparation\n\n#### Calamari\n\n1.  Wash the calamari, then slice into thin circles - the circles should be as thick as the calamari itself.\n\n2.  Place in a bowl or tupperware that can take up some water.\n\n3.  Add baking powder on top of the calamari\n\n4.  Fill up the dish with cold fresh water, then leave in the fridge for around 4 hours. The baking powder and water mix helps make the calamari extra tender and juicy.\n\n#### Chips\n\n1.  Using a slicer, slice the potatoes into circles of at most 1.5 mm thickness. I personally use a truffle slicer with adjustable thickness, but I've done this before using a knife as well and works the same, just slower.\n\n2.  Once you slice through the whole lot of potatoes, put them in cold water and wash and rince them nicely until the water runs clear\n\n3.  Place in clear water and leave in the fridge for a few hours, just while the calamari is also done\n\n## Fry em up\n\n1.  Strain your chips and put them on a towel, then soak up as much of the water as you can. The chips need to be as dry as possible to get as crispy as possible.\n\n2.  In a nice shallow steel dish, place enough sunflower oil to cover the potatoes/calamari once they are in.\n\n3.  Fry your chips until the oil stops \"boiling\" and the steam goes away. Place on a drying rack and salt immediately for extra crispiness. I also like to keep my fried chips warm while I am doing the rest (Oven, 50 C<sup>o </sup>)\n\n4.  Mix your corn flour and corn starch well, add some salt and pepper to taste.\n\n5.  Dry your calamari up as much as possible, then place in the flour and mix well\n\n6.  Fry you calamari, shaking off the excess flour before putting in the oil.\n\n7.  Fry until the calamari is crisp, but not too orange, as it will get too dry, and place on a drying rack.\n\n8.  Serve all together immediately, making sure you do not stack your calamari or chips, so they do not get soggy.\n\n9.  Enjoy pure goodness, pair it up with some Ouzo or nice white wine.\n\n\n\n<div style=\"text-align: left\"></div>\n\n"
+            },
+            "thumbnail": "images/post-layout-latest-recipe-8871.png"
+        }
+    ]
+}
