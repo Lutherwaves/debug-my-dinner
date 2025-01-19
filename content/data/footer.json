@@ -5,9 +5,17 @@
         "type": "ImageBlock"
     },
     "text": "What's for dinner?\n",
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "GitHub link",
+            "url": "https://github.com/Lutherwaves/debug-my-dinner",
+            "icon": "github",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [],
-    "copyrightText": "",
+    "copyrightText": "Debug my dinner @ 2025\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
