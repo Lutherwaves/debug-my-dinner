@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Tagliatelle Carbonara with Beef Sirloin and Asparagus
-date: '2024-12-30'
+date: '2025-09-15'
 author: content/data/person1.json
 excerpt: >-
   A sophisticated twist on classic carbonara featuring tender beef sirloin and fresh asparagus. 
