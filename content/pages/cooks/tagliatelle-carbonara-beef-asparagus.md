@@ -4,8 +4,7 @@ title: Tagliatelle Carbonara with Beef Sirloin and Asparagus
 date: '2025-09-15'
 author: content/data/person1.json
 excerpt: >-
-  A sophisticated twist on classic carbonara featuring tender beef sirloin and fresh asparagus. 
-  This recipe maintains the authentic carbonara technique with creamy egg-and-cheese emulsion.
+  A twist on classic carbonara to nudge your taste buds and dare to try not to overeat.
 featuredImage:
   type: ImageBlock
   url: /images/tagliatelle-carbonara-beef-asparagus.jpg
@@ -36,7 +35,7 @@ styles:
 
 ### Overview
 
-A sophisticated twist on the classic Roman carbonara that respects the authentic technique while incorporating premium ingredients. This recipe maintains the silky, egg-and-cheese emulsion that defines true carbonara, enhanced with tender beef sirloin and fresh asparagus for a perfect balance of richness and freshness.
+A twist on the classic Roman carbonara that respects the authentic technique while incorporating premium ingredients. This recipe maintains the silky, egg-and-cheese emulsion that defines true carbonara, enhanced with tender beef sirloin and fresh asparagus for a perfect balance of richness and freshness.
 
 ### Recipe
 
@@ -121,6 +120,6 @@ This recipe maintains the authentic carbonara method:
 *   **Residual heat cooking** - prevents scrambled eggs
 *   **Generous black pepper** - essential for authentic flavor
 
-The result is a sophisticated dish that honors the Roman tradition while offering a modern twist with premium ingredients.
+The result is a dish that honors the Roman tradition while offering a modern twist with premium ingredients.
 
 <div style="text-align: left"></div>
