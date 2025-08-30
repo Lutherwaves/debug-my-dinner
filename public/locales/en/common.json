@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "home": "Home",
+    "recipes": "Recipes",
+    "cooks": "Cooks",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "header": {
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu",
+    "languageToggle": "Language"
+  },
+  "footer": {
+    "copyright": "© 2024 Debug my dinner. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "recipe": {
+    "prepTime": "Prep time",
+    "cookingTime": "Cooking time",
+    "complexity": "Complexity",
+    "ingredients": "Ingredients",
+    "preparation": "Preparation",
+    "instructions": "Instructions",
+    "servings": "Servings",
+    "difficulty": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    }
+  },
+  "common": {
+    "readMore": "Read More",
+    "backToTop": "Back to Top",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found"
+  }
+}

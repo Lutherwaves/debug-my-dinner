@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "home": "Начало",
+    "recipes": "Рецепти",
+    "cooks": "Готвене",
+    "about": "За нас",
+    "contact": "Контакти"
+  },
+  "header": {
+    "skipToContent": "Прескочи към основното съдържание",
+    "openMenu": "Отвори меню",
+    "closeMenu": "Затвори меню",
+    "languageToggle": "Език"
+  },
+  "footer": {
+    "copyright": "© 2024 Debug my dinner. Всички права запазени.",
+    "privacyPolicy": "Политика за поверителност",
+    "termsOfService": "Условия за ползване"
+  },
+  "recipe": {
+    "prepTime": "Време за подготовка",
+    "cookingTime": "Време за готвене",
+    "complexity": "Сложност",
+    "ingredients": "Съставки",
+    "preparation": "Подготовка",
+    "instructions": "Инструкции",
+    "servings": "Порции",
+    "difficulty": {
+      "low": "Ниска",
+      "medium": "Средна",
+      "high": "Висока"
+    }
+  },
+  "common": {
+    "readMore": "Прочети повече",
+    "backToTop": "Обратно към началото",
+    "loading": "Зареждане...",
+    "error": "Възникна грешка",
+    "notFound": "Страницата не е намерена"
+  }
+}
