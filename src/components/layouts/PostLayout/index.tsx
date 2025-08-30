@@ -5,6 +5,7 @@ import Markdown from 'markdown-to-jsx';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
 import Link from '../../atoms/Link';
+import { useTranslation } from '../../../utils/useTranslation';
 
 export default function PostLayout(props) {
     const { page, site } = props;
@@ -13,10 +14,14 @@ export default function PostLayout(props) {
     const { title, date, author, markdown_content, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
+    const { t } = useTranslation('common');
 
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
+                <a href="#main" className="sr-only">
+                    {t('header.skipToContent')}
+                </a>
                 <article className="px-4 py-16 sm:py-28">
                     <div className="max-w-screen-2xl mx-auto">
                         <header className="max-w-4xl mx-auto mb-12 text-center">

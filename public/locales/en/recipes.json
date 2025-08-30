@@ -1,0 +1,79 @@
+{
+  "crispyCalamari": {
+    "title": "Crispy Calamari",
+    "excerpt": "This crispy calamari and potato chips is definitely a soul food you can enjoy throughout the year. Check it out now.",
+    "metaDescription": "Simple crispy calamari with chips",
+    "section1": {
+      "title": "The classic summer getaway",
+      "content": "Crispy fried calamari and chips are a savory and crispy way for the family to enjoy something delicious and different, every now and then. This recipe is very easy to do, even with frozen calamari. For best crispiness, I recommend picking the purple/red-ish potatoes and getting a nice truffle slicer."
+    },
+    "section2": {
+      "title": "Recipe",
+      "prepTime": "Prep time - 4 hours",
+      "cookingTime": "Cooking time - 40 minutes",
+      "complexity": "Complexity: Low"
+    },
+    "ingredients": {
+      "title": "Ingredients",
+      "items": [
+        "~ 700 g calamari tubes",
+        "~ 500 g purple/red potatoes for frying",
+        "200 g corn flour",
+        "20 g corn starch",
+        "Salt & Black Pepper to taste",
+        "3 tbsp Baking powder"
+      ]
+    },
+    "preparation": {
+      "title": "Preparation",
+      "calamari": {
+        "title": "Calamari",
+        "steps": [
+          "Wash the calamari, then slice into thin circles - the circles should be as thick as the calamari itself.",
+          "Place in a bowl or tupperware that can take up some water.",
+          "Add baking powder on top of the calamari",
+          "Fill up the dish with cold fresh water, then leave in the fridge for around 4 hours. The baking powder and water mix helps make the calamari extra tender and juicy."
+        ]
+      },
+      "chips": {
+        "title": "Chips",
+        "steps": [
+          "Using a slicer, slice the potatoes into circles of at most 1.5 mm thickness. I personally use a truffle slicer with adjustable thickness, but I've done this before using a knife as well and works the same, just slower.",
+          "Once you slice through the whole lot of potatoes, put them in cold water and wash and rince them nicely until the water runs clear",
+          "Place in clear water and leave in the fridge for a few hours, just while the calamari is also done"
+        ]
+      }
+    },
+    "cooking": {
+      "title": "Fry em up",
+      "steps": [
+        "Strain your chips and put them on a towel, then soak up as much of the water as you can. The chips need to be as dry as possible to get as crispy as possible.",
+        "In a nice shallow steel dish, place enough sunflower oil to cover the potatoes/calamari once they are in."
+      ]
+    }
+  },
+  "donerKebap": {
+    "title": "Homemade Doner Kebap",
+    "excerpt": "Authentic doner kebap recipe you can make at home",
+    "metaDescription": "Homemade authentic doner recipe",
+    "content": "If you're here, you like don't, so follow this recipe to get the same results using plain home equipment."
+  },
+  "carbonara": {
+    "title": "Tagliatelle Carbonara with Beef & Asparagus",
+    "excerpt": "A twist on the classic Roman carbonara that respects the authentic technique while incorporating premium ingredients. This recipe maintains the silky, egg-and-cheese emulsion that defines true carbonara, enhanced with tender beef sirloin and fresh asparagus for a perfect balance of richness and freshness.",
+    "content": "This recipe maintains the authentic carbonara method:"
+  },
+  "salmon": {
+    "title": "Salmon Delight",
+    "excerpt": "Perfect summer meal. This recipe is easy to prepare and offers a balanced flavor",
+    "recipeDetails": "Recipe Details:",
+    "content": "This recipe offers a delicious and well-rounded meal perfect for a summer evening."
+  },
+  "smashBurger": {
+    "title": "Smash Burger",
+    "excerpt": "These smash burgers are savory and delicious, for lunch or dinner. We'll make everything from scratch and the recipe contains garnish me and my family like, but honestly, we always do it a tiny bit differently. Tweak to your taste buds!"
+  },
+  "porchetta": {
+    "title": "Crispy Porchetta"
+  }
+}
