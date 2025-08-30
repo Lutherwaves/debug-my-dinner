@@ -76,7 +76,7 @@ function HeaderLogoLeftPrimaryLeft(props) {
                     </ul>
                 )}
             </div>
-            <div className="hidden ml-auto lg:flex lg:items-center">
+            <div className="ml-auto flex items-center">
                 <LanguageToggle />
             </div>
             <MobileMenu {...props} />
@@ -108,10 +108,10 @@ function HeaderLogoLeftPrimaryCentered(props) {
                     </ul>
                 )}
             </div>
-            <div className="hidden lg:flex lg:items-center ml-auto">
+            <div className="ml-auto flex items-center">
                 <LanguageToggle />
             </div>
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
+            <MobileMenu {...props} />
         </div>
     );
 }
@@ -137,7 +137,7 @@ function HeaderLogoLeftPrimaryRight(props) {
                     </ul>
                 )}
             </div>
-            <div className={classNames('hidden', 'lg:flex', 'lg:items-center', primaryLinks.length > 0 ? 'ml-10' : 'ml-auto')}>
+            <div className={classNames('flex', 'items-center', primaryLinks.length > 0 ? 'ml-10' : 'ml-auto')}>
                 <LanguageToggle />
             </div>
             <MobileMenu {...props} />
@@ -166,7 +166,7 @@ function HeaderLogoCenteredPrimaryLeft(props) {
                     </ul>
                 )}
             </div>
-            <div className="hidden lg:flex lg:items-center ml-auto">
+            <div className="ml-auto flex items-center">
                 <LanguageToggle />
             </div>
             <MobileMenu {...props} />
@@ -191,7 +191,7 @@ function HeaderLogoCenteredPrimaryCentered(props) {
                         </ul>
                     )}
                 </div>
-                <div className="hidden lg:flex lg:items-center ml-auto">
+                <div className="ml-auto flex items-center">
                     <LanguageToggle />
                 </div>
                 <MobileMenu {...props} />

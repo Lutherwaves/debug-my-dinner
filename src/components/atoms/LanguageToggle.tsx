@@ -16,7 +16,7 @@ export default function LanguageToggle({ className, colors = 'bg-light-fg-dark' 
     const isBulgarian = locale === 'bg';
 
     return (
-        <div className={classNames('flex items-center gap-2', className)}>
+        <div className={classNames('flex items-center gap-2 border border-red-500 bg-yellow-200 p-2', className)}>
             <Link
                 href={{ pathname, query }}
                 as={asPath}
