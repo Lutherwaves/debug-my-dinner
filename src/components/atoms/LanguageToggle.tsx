@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { useRouter } from 'next/router';
-import Link from 'next/link';
 import classNames from 'classnames';
 
 interface LanguageToggleProps {
@@ -15,34 +14,34 @@ export default function LanguageToggle({ className, colors = 'bg-light-fg-dark' 
     const isEnglish = locale === 'en';
     const isBulgarian = locale === 'bg';
 
+    const changeLanguage = (newLocale: string) => {
+        router.push(pathname, asPath, { locale: newLocale });
+    };
+
     return (
-        <div className={classNames('flex items-center gap-2 border border-red-500 bg-yellow-200 p-2', className)}>
-            <Link
-                href={{ pathname, query }}
-                as={asPath}
-                locale="en"
+        <div className={classNames('flex items-center gap-1', className)}>
+            <button
+                onClick={() => changeLanguage('en')}
                 className={classNames(
-                    'px-3 py-1 text-sm font-medium rounded transition-colors',
+                    'px-2 py-1 text-xs font-medium rounded transition-colors border cursor-pointer',
                     isEnglish
-                        ? 'bg-primary text-white'
-                        : 'text-gray-600 hover:text-primary hover:bg-gray-100'
+                        ? 'bg-primary text-white border-primary'
+                        : 'text-gray-600 border-gray-300 hover:text-primary hover:border-primary hover:bg-gray-50'
                 )}
             >
                 EN
-            </Link>
-            <Link
-                href={{ pathname, query }}
-                as={asPath}
-                locale="bg"
+            </button>
+            <button
+                onClick={() => changeLanguage('bg')}
                 className={classNames(
-                    'px-3 py-1 text-sm font-medium rounded transition-colors',
+                    'px-2 py-1 text-xs font-medium rounded transition-colors border cursor-pointer',
                     isBulgarian
-                        ? 'bg-primary text-white'
-                        : 'text-gray-600 hover:text-primary hover:bg-gray-100'
+                        ? 'bg-primary text-white border-primary'
+                        : 'text-gray-600 border-gray-300 hover:text-primary hover:border-primary hover:bg-gray-50'
                 )}
             >
                 BG
-            </Link>
+            </button>
         </div>
     );
 }

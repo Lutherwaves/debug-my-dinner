@@ -4,6 +4,7 @@ import { getComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
+import { useTranslation } from 'next-i18next';
 
 function Page(props) {
     const { page, site } = props;
@@ -15,6 +16,10 @@ function Page(props) {
     if (!PageLayout) {
         throw new Error(`no page layout matching the page model: ${modelName}`);
     }
+    
+    // Initialize translations
+    useTranslation(['common', 'recipes']);
+    
     return <PageLayout page={page} site={site} />;
 }
 
