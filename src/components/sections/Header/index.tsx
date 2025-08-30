@@ -75,9 +75,11 @@ function HeaderLogoLeftPrimaryLeft(props) {
                         <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
                     </ul>
                 )}
+            </div>
+            <div className="hidden ml-auto lg:flex lg:items-center">
                 <LanguageToggle />
             </div>
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
+            <MobileMenu {...props} />
         </div>
     );
 }
@@ -105,6 +107,8 @@ function HeaderLogoLeftPrimaryCentered(props) {
                         <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
                     </ul>
                 )}
+            </div>
+            <div className="hidden lg:flex lg:items-center ml-auto">
                 <LanguageToggle />
             </div>
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
@@ -132,9 +136,11 @@ function HeaderLogoLeftPrimaryRight(props) {
                         <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
                     </ul>
                 )}
+            </div>
+            <div className={classNames('hidden', 'lg:flex', 'lg:items-center', primaryLinks.length > 0 ? 'ml-10' : 'ml-auto')}>
                 <LanguageToggle />
             </div>
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
+            <MobileMenu {...props} />
         </div>
     );
 }
@@ -159,9 +165,11 @@ function HeaderLogoCenteredPrimaryLeft(props) {
                         <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
                     </ul>
                 )}
+            </div>
+            <div className="hidden lg:flex lg:items-center ml-auto">
                 <LanguageToggle />
             </div>
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
+            <MobileMenu {...props} />
         </div>
     );
 }
@@ -182,9 +190,11 @@ function HeaderLogoCenteredPrimaryCentered(props) {
                             <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
                         </ul>
                     )}
+                </div>
+                <div className="hidden lg:flex lg:items-center ml-auto">
                     <LanguageToggle />
                 </div>
-                {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
+                <MobileMenu {...props} />
             </div>
             {primaryLinks.length > 0 && (
                 <ul
